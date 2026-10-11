@@ -7,10 +7,10 @@ The objective was to clean raw sales data, build interactive visualisations, and
 - <a href="https://github.com/Isl4/Cafe-Sales_Dasboard/blob/main/Clean_Cafe_Sales.xlsx">Dataset</a>
 
 ## Key Insights
--Salad generated the highest revenue.
--Digital Wallet was the most used payment method.
--In-store sales exceeded takeaway sales.
--Monthly revenue remained relatively stable.
+- Salad generated the highest revenue.
+- Digital Wallet was the most used payment method.
+- In-store sales exceeded takeaway sales.
+- Monthly revenue remained relatively stable.
 
 ## Tools Used
 Excel
