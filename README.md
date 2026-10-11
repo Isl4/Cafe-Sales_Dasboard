@@ -1,7 +1,3 @@
-<img width="1891" height="785" alt="Screenshot 2026-10-11 085704" src="https://github.com/user-attachments/assets/02538f01-6ddf-42c5-ac2b-f1e74fd6f0aa" />
-<img width="1022" height="532" alt="Screenshot 2026-10-11 085636" src="https://github.com/user-attachments/assets/2943a8b1-0511-4f23-91c8-8040c1fc9671" />
-<img width="522" height="637" alt="Screenshot 2026-10-10 185148" src="https://github.com/user-attachments/assets/edec47a5-dc1e-48ae-b93d-2d1a3abec5a6" />
-<img width="1892" height="137" alt="Screenshot 2026-10-10 185120" src="https://github.com/user-attachments/assets/728cae57-8b21-4cb1-aab8-f3f9c4eec849" />
 # Cafe-Sales_Dasboard 
 ## Project Overview
 This project analyses cafe sales data using Excel and Power Query.
