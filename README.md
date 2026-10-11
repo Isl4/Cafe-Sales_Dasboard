@@ -13,19 +13,19 @@ The objective was to clean raw sales data, build interactive visualisations, and
 - Monthly revenue remained relatively stable.
 
 ## Tools Used
-Excel
-Power Query
-Pivot Tables
-Pivot Charts
-Slicers
-Dashboard Design
+- Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Dashboard Design
 
 ## Data Cleaning
-Replaced UNKNOWN values.
-Removed blank records.
-Fixed data types.
-Validated Total Spent values.
-Checked for duplicates.
+- Replaced UNKNOWN values.
+- Removed blank records.
+- Fixed data types.
+- Validated Total Spent values.
+- Checked for duplicates.
 
 ## KPIs
 Total Revenue
