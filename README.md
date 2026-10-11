@@ -28,9 +28,9 @@ The objective was to clean raw sales data, build interactive visualisations, and
 - Checked for duplicates.
 
 ## KPIs
-Total Revenue
-Top Product
-Best Location
-Top Payment Method
-Average Revenue per Product
-Dashboard Preview
+- Total Revenue
+- Top Product
+- Best Location
+- Top Payment Method
+- Average Revenue per Product
+- Dashboard Preview
