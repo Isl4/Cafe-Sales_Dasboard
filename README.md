@@ -34,3 +34,7 @@ The objective was to clean raw sales data, build interactive visualisations, and
 - Top Payment Method
 - Average Revenue per Product
 - Dashboard Preview
+
+## Dasboard design :
+<img width="1892" height="137" alt="Screenshot 2026-10-10 185120" src="https://github.com/user-attachments/assets/e402a463-a240-4b3d-9187-0a98ce7960d9" />
+
